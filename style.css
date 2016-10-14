@@ -32,11 +32,9 @@ ul {
 }
 
 .nav-text {
-	color: #ffffff !important;
-	background-color: #333333;
+	color: #f4a442 !important;
 	padding: 15px 25px 15px 25px;
-	border-top-right-radius: 10px;
-	border-top-left-radius: 10px;
+	border-radius: 15px;
 }
 
 a.nav-text:link {

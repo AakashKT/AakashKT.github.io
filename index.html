@@ -1,5 +1,7 @@
 <html>
 	<head>
+		<link rel="stylesheet" href="style.css">
+
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -7,43 +9,6 @@
 
 		<link href="https://fonts.googleapis.com/css?family=Proza+Libre" rel="stylesheet">
 	</head>
-
-	<style>
-
-		body {
-			font-family: 'Proza Libre', sans-serif !important;
-		}
-
-		.custom-jumbotron {
-			background-color: #222;
-			border-radius: 0px 0px 0px 0px !important;
-		}
-
-		.white-text {
-			color: white !important;
-		}
-
-		.text-shadow {
-			text-shadow: -5px 5px 10px #000000
-		}
-
-		.small-font {
-			font-size: 15px !important;
-		}
-
-		.nav-text {
-			color: #5c9bd6 !important;
-			padding: 15px 15px 15px 15px;
-			border-top-right-radius: 5px;
-			border-top-left-radius: 5px;
-		}
-
-		a:hover {
-			background-color: #1a1a1a;
-			text-decoration: none !important;
-		}
-
-	</style>
 
 	<body>
 
@@ -60,14 +25,22 @@
 
 				<div class="col-sm-5">
 					<div class="row">
-						<div class="col-sm-4">
+						<div class="col-sm-3">
 							<p><a href="#" class="nav-text">Home</a></p>
 						</div>
-						<div class="col-sm-4">
-							<p><a href="#" class="nav-text">Resume</a></p>
+						<div class="col-sm-6">
+							<p><a href="AakashKT.pdf" target="_blank" class="nav-text">Resume PDF</a></p>
 						</div>
-						<div class="col-sm-4">
-							<p><a href="#" class="nav-text">Contact</a></p>
+					</div>
+
+					<div class="row">
+						<br><br>
+						<div class="col-sm-12">
+							<p class="white-text small-font">
+								<b>Email : </b>aakash.kt@research.iiit.ac.in
+								<br>
+								<b>Ph : </b>+91 8879720249
+							</p>
 						</div>
 					</div>
 				</div>
@@ -86,22 +59,110 @@
 					<img src="python_logo.png" width="120px" height="30px">
 				</div>
 				<div class="col-sm-2" style="padding-top:8px">
-					<img src="c++_logo.png" width="80px" height="50px">
-				</div>
-				<div class="col-sm-2" style="padding-top:8px">
 					<img src="php_logo.png" width="80px" height="50px">
 				</div>
 				<div class="col-sm-2">
 					<img src="mysql_logo.png" width="80px" height="50px">
 				</div>
+				<div class="col-sm-2" style="padding-top:8px">
+					<img src="c++_logo.png" width="80px" height="50px">
+				</div>
 			</div>
 
 			<div class="row">
 				<div class="col-sm-12">
-					<hr>
+					<hr><br>
 				</div>
 			</div>
+
+			<div class="row">
+				<div class="col-sm-10 col-sm-offset-1">
+					<h2 class="gray-text">Work Experience</h2>
+
+					<ul>
+						<li>
+							Internship at Smart Commut Technologies Pvt. Ltd.
+							<br>
+							<p class="light-gray-text">Aug '16 to Present</p>
+							<p>Responsible for developing and managing the iOS application</p>
+							<p>Responsible for maintaining and optimising the server to handle large traffic volumes</p>
+						</li>
+						<li>
+							Outfit mix and match engine for Fabulyst
+							<br>
+							<p class="light-gray-text">Aug '16 to Present</p>
+							<p>Working with a team of four on scraping data, handling server, making server APIs to access data, and matching data points to create recommendation system</p>
+						</li>
+						<li>
+							Internship at Avocation Educational Services Pvt. Ltd.
+							<br>
+							<p class="light-gray-text">Jul '15 to Oct '15</p>
+							<p>Developed and maintained two iOS applications, 'Yocket' and 'Study Resources'</p>
+							<p>Fixed bugs in the apps and pushed updates to users</p>
+						</li>
+						<li>
+							Developer / Co-owner, TheNovelPage
+							<br>
+							<p class="light-gray-text">Nov '15 to Aug '16</p>
+							<p>Content management system for web novels and web serials</p>
+							<p>Developed the website in PHP using the Laravel 5 framework and optimised front-end code to minimise page-load times</p>
+						</li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-sm-10 col-sm-offset-1">
+					<h2 class="gray-text">Projects</h2>
+
+					<ul>
+						<li>
+							Tetris
+							<br>
+							<p class="light-gray-text">Technical Project</p>
+							<p>Made using 'pygame' library, with multiple levels of difficultly and multiple block shapes</p>
+							<a target="_blank" href="https://github.com/AakashKT/python-game">Github</a>
+							<br><br>
+						</li>
+						<li>
+							Unix / Linux shell emulator
+							<br>
+							<p class="light-gray-text">Technical Project</p>
+							<p>Has support for most shell commands, including piping, I/O redirection and running background processes</p>
+							<p>Written purely in the C language using system calls</p>
+							<a target="_blank" href="https://github.com/AakashKT/UnixShellEmulator">Github</a>
+							<br><br>
+						</li>
+						<li>
+							Networking Library in swift for Xcode
+							<br>
+							<p class="light-gray-text">Technical Project</p>
+							<p>Written in swift, it makes making network calls a breeze and includes function for most common network activities, such as handling JSON, making HTTPS requests</p>
+							<a target="_blank" href="https://github.com/AakashKT/ios-networking">Github</a>
+							<br><br>
+						</li>
+						<li>
+							3D Model of a self designed room
+							<br>
+							<p class="light-gray-text">3D Modelling Project</p>
+							<p>This was made using Blender3D, using the cycles rendering engine</p>
+							<a target="_blank" href="https://www.cgtrader.com/3d-models/architectural-interior/living-room/lounge-room-day-and-night-scene-blender-models">Store</a>
+							<br><br>
+						</li>
+						<li>
+							3D Model of Chevrolet Camaro
+							<br>
+							<p class="light-gray-text">3D Modelling Project</p>
+							<p>This was made using Blender3D, using the cycles rendering engine</p>
+							<a target="_blank" href="https://www.cgtrader.com/3d-models/car/racing/chevrolet-camaro-2010--3">Store</a>
+							<br><br>
+						</li>
+					</ul>
+				</div>
+			</div>
+
 		</div>	
 
+		<br><br><br><br><br><br>
 	</body>
 </html>

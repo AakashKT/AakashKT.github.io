@@ -1,181 +1,91 @@
 <html>
 	<head>
-		<link rel="stylesheet" href="style.css">
-		<link rel="icon" href="favicon.png" type="image/png" sizes="16x16">
+		
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.6.1/css/bootstrap-slider.min.css">
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.6.1/bootstrap-slider.min.js"></script>
 
-		<link href="https://fonts.googleapis.com/css?family=Proza+Libre" rel="stylesheet">
+		<!-- <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-colorpicker/2.5.3/css/bootstrap-colorpicker.css" rel="stylesheet">
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-colorpicker/2.5.3/js/bootstrap-colorpicker.js"></script>
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/fabric.js/3.3.2/fabric.js"></script>
+
+		<link href="https://uicdn.toast.com/tui-color-picker/latest/tui-color-picker.css" rel="stylesheet">
+		<link href="tui-image-editor.min.css" rel="stylesheet">
+		<script src="tui-code-snippet.min.js"></script>
+		<script src="https://uicdn.toast.com/tui-color-picker/latest/tui-color-picker.js"></script>
+		<script src="tui-image-editor.min.js"></script> -->
+
+		
+		<style>
+			
+		</style>
 	</head>
 
 	<body>
+		<div class="container">
+			<br>
+			<div class="row">
+				<div class="col-sm-12" align="center">
+					<h1>Aakash KT</h1>
+					<h5>aakash.kt@research.iiit.ac.in</h5>
+					<hr>
+				</div>
+			</div>
 
-		<div class="container-fluid">
-			<div class="row jumbotron custom-jumbotron">
-				<div class="col-sm-7">
-					<h1 class="white-text text-shadow">Aakash KT</h1>
-					<p class="white-text small-font">
-						International Institute Of Information Technology, Hyderabad (IIIT-H)
-						<br>
-						Computer Science Engineering
+			<div class="row">
+				<div class="col-sm-1"></div>
+				<div class="col-sm-10">
+					<p>I am currently a MS by research student at Computer Vision Lab (CVIT), which is where I completed my BTech in Computer Science Engineering. My research advisor is Dr. PJ Narayanan (<a href="https://scholar.google.co.in/citations?user=3HKjt_IAAAAJ&hl=en">Google Scholar</a>). I am interested in understanding how we "see" and percieve the world (in other words, Computer Vision/Computer Graphics). Welcome to my page!</p>
+					<p>
+						<span>
+							<a href="mailto:aakash.kt@research.iiit.ac.in">Email</a> /
+							<a href="https://scholar.google.co.in/citations?user=itJ7vawAAAAJ&hl=en">Google Scholar</a>
+						</span>
 					</p>
 				</div>
+			</div>
+			<br>
+			<div class="row">
+				<div class="col-sm-1"></div>
+				<div class="col-sm-10">
+					<h3>Research Publications</h3>
+					<p>A complete list of my publications. Not a huge list, but hope to work on many more interesting and high impact problems!</p>
+					<br>
 
-				<div class="col-sm-5">
+					<hr>
 					<div class="row">
-						<div class="col-sm-3">
-							<p><a href="#" class="nav-text">Home</a></p>
+						<div class="col-sm-2">
+							<img src="neural-material-vis.png" width="130px" height="130px">
 						</div>
-						<div class="col-sm-6">
-							<p><a href="AakashKT.pdf" target="_blank" class="nav-text">Resume PDF</a></p>
+						<div class="col-sm-10">
+							<h4>A Flexible Neural Renderer for Material Visualization</h4>
+							<span>
+								<b>Aakash KT</b>,
+								<a href="https://scholar.google.co.in/citations?user=h1_Uc2QAAAAJ&hl=en">Parikshit Sakurikar</a>,
+								<a href="https://scholar.google.co.in/citations?hl=en&user=OSZDITwAAAAJ">Saurabh Saini</a>,
+								<a href="https://scholar.google.co.in/citations?user=3HKjt_IAAAAJ&hl=en">P J Narayanan</a>
+							</span>
+							<p>SIGGRAPH Asia 2019, Technical Briefs (In review)</p>
+							<p>Photo realism in computer generated imagery is crucially dependent on how well an artist is able to recreate real-world materials in the scene. We propose a convolutional neural network based workflow which generates high-quality ray traced material visualizations on a shaderball, in real-time.</p>
+							<span>
+								<a href="neural-renderer-material-visualization.html">[Project page]</a>
+								<a href="">[Code]</a>
+								<a href="">[arXiv]</a>
+								<a href="">[bibex]</a>
+							</span>
 						</div>
 					</div>
+					<hr>
 
-					<div class="row" align="right">
-						<br><br>
-						<div class="col-sm-12">
-							<p class="white-text small-font">
-								<b>Email : </b>aakash.kt@research.iiit.ac.in
-								<br>
-								<b>Ph : </b>+91 8879720249
-							</p>
-						</div>
-					</div>
 				</div>
 			</div>
+			<br><br>
 		</div>
-
-		<div class="container">
-			<div class="row">
-				<div class="col-sm-2">
-					<img src="java_logo.png" width="100px" height="60px">
-				</div>
-				<div class="col-sm-2" style="padding-top:18px">
-					<img src="swift_logo.png" width="110px" height="30px">
-				</div>
-				<div class="col-sm-2" style="padding-top:20px">
-					<img src="python_logo.png" width="120px" height="30px">
-				</div>
-				<div class="col-sm-2" style="padding-top:8px">
-					<img src="php_logo.png" width="80px" height="50px">
-				</div>
-				<div class="col-sm-2">
-					<img src="mysql_logo.png" width="80px" height="50px">
-				</div>
-				<div class="col-sm-2" style="padding-top:8px">
-					<img src="c++_logo.png" width="80px" height="50px">
-				</div>
-			</div>
-
-			<div class="row">
-				<div class="col-sm-12">
-					<hr><br>
-				</div>
-			</div>
-
-			<div class="row">
-				<div class="col-sm-10 col-sm-offset-1">
-					<h2 class="gray-text">Work Experience</h2>
-
-					<ul>
-						<li>
-							Internship at Smart Commut Technologies Pvt. Ltd.
-							<p class="light-gray-text" style="float:right">Aug '16 to Present</p>
-							<br>
-							<i class="light-gray-text">Back-end and iOS-app development : Swift, Objective-C, Erlang, AngularJS</i>
-							<p>Maintained and optimized the server to handle large traffic volumes.</p>
-							<p>Developed internal tools for managing company assets and logistics.</p>
-							<p>Developed iOS application using swift and objective-c programming languages.</p>
-						</li>
-						<br>
-						<li>
-							Outfit mix and match engine for Fabulyst
-							<p class="light-gray-text" style="float:right">Aug '16 to Present</p>
-							<br>
-							<i class="light-gray-text">Back-end and recommendation system : Python, Shell scripting, Artificial Intelligence</i>
-							<p>Used python with Scrapy, Beautiful-soup and other libraries to scrape large data from different websites.</p>
-							<p>Used AWS server to store, sort and tag the data.</p>
-							<p>Designed and developed a recommendation system API, using django and the "Similarity Scores" algorithm.</p>
-						</li>
-						<br>
-						<li>
-							Developer / Co-owner, TheNovelPage
-							<p class="light-gray-text" style="float:right">Nov '15 to Aug '16</p>
-							<br>
-							<i class="light-gray-text">Full stack developer : PHP, Javascript, Coffeescript, MySQL, HTML, CSS</i>
-							<p>Developed the back-end using laravel-php framework with MySQL Database.</p>
-							<p>Developed the front-end using Coffee-script and bootstrap.</p>
-							<p>Hosted on AWS, using the "Elastic Beanstalk" for load distribution and RDS for data layer abstraction.</p>
-						</li>
-						<br>
-						<li>
-							Internship at Avocation Educational Services Pvt. Ltd.
-							<p class="light-gray-text" style="float:right">Jul '15 to Oct '15</p>
-							<br>
-							<i class="light-gray-text">iOS-app development : Swift</i>
-							<p>Developed two iOS applications using the swift language.</p>
-							<p>Optimised and maintained the iOS applications to reduce server load.</p>
-						</li>
-					</ul>
-				</div>
-			</div>
-
-			<div class="row">
-				<div class="col-sm-10 col-sm-offset-1">
-					<h2 class="gray-text">Projects</h2>
-
-					<ul>
-						<li>
-							Strategy based 3D game
-							<br>
-							<i class="light-gray-text">C++, OpenGL</i>
-							<p>Developed an interactive 3D strategy game using C++ and OpenGL.</p>
-							<p>Designed 3D models for the game using Blender, a 3D modeling open source software.</p>
-							<p>Incorporated lighting and shaders for realistic 3D visual effect.</p>
-							<br><br>
-						</li>
-						<li>
-							AI bot for playing modified Tic-tac Toe
-							<br>
-							<i class="light-gray-text">Python, Artificial Intelligence</i>
-							<p>Developed an AI bot using the Python programming language for a modified version of Tic-Tac Toe.</p>
-							<p>Used various algorithms like MinMax, Alpha-Beta pruning, Learning along with self-designed heuristic function.</p>
-							<br><br>
-						</li>
-						<li>
-							Strategy based 2D game
-							<br>
-							<i class="light-gray-text">Python</i>
-							<p>Developed a python game using the "pygame" library.</p>
-							<p>Used software design principles, in the likes of the incremental waterfall model with continuous integration.</p>
-							<p>Designed the system using Object-oriented concepts like Inheritance, Polymorphism, Abstraction.</p>
-							<br><br>
-						</li>
-						<li>
-							A Unix / Linux like shell in C
-							<br>
-							<i class="light-gray-text">C, Unix System calls, Semaphores, Mutex</i>
-							<p>Developed a Unix like shell in the C programming language using system calls.</p>
-							<p>Worked with low level Operating System APIs.</p>
-							<p>Implemented features such as pipelining, background processsing, I/O redirection.</p>
-							<br><br>
-						</li>
-						<li>
-							Networking Library in swift for Xcode
-							<br>
-							<i class="light-gray-text">Technical Project</i>
-							<p>Written in swift, it makes making network calls a breeze and includes function for most common network activities, such as handling JSON, making HTTPS requests</p>
-							<br><br>
-						</li>
-					</ul>
-				</div>
-			</div>
-
-		</div>
-
-		<br><br><br><br><br><br>
 	</body>
 </html>

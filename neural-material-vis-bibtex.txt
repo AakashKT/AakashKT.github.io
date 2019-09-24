@@ -1,0 +1,17 @@
+@ARTICLE{2019arXiv190809530K,
+       author = {{KT}, Aakash and {Sakurikar}, Parikshit and {Saini}, Saurabh and
+         {Narayanan}, P.~J.},
+        title = "{A Flexible Neural Renderer for Material Visualization}",
+      journal = {arXiv e-prints},
+     keywords = {Computer Science - Graphics},
+         year = "2019",
+        month = "Aug",
+          eid = {arXiv:1908.09530},
+        pages = {arXiv:1908.09530},
+archivePrefix = {arXiv},
+       eprint = {1908.09530},
+ primaryClass = {cs.GR},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2019arXiv190809530K},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+

@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Personal Website # the website title (if blank, full name will be used instead)
+title: Aakash KT # the website title (if blank, full name will be used instead)
 first_name: Aakash
 last_name: KT
 email: aakash.kt@research.iiit.ac.in
@@ -200,8 +200,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: KT
+  first_name: [Aakash]
 
   style: apa
   locale: en

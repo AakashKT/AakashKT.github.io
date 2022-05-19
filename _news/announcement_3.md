@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2021-06-05
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our paper <i>"Fast Analytic Soft Shadows from Area Lights"</i> has been accepted to EGSR 2021!

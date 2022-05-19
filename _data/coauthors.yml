@@ -1,18 +1,27 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Narayanan":
+  - firstname: ["P. J."]
+    url: https://scholar.google.co.in/citations?user=3HKjt_IAAAAJ&hl=en&oi=ao
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Sakurikar":
+  - firstname: ["Parikshit"]
+    url: https://researchweb.iiit.ac.in/~parikshit.sakurikar/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Saini":
+  - firstname: ["Saurabh"]
+    url: https://sophont01.github.io/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Dhawal":
+  - firstname: ["Sirikonda"]
+    url: https://dhawal1939.github.io/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Gera":
+  - firstname: ["Pulkit"]
+    url: https://darthgera123.github.io/
+
+"Heitz":
+  - firstname: ["Eric"]
+    url: https://eheitzresearch.wordpress.com/
+
+"Dupuy":
+  - firstname: ["Jonathan"]
+    url: https://onrendering.com/

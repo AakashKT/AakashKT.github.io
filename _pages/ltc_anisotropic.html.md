@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bringing Linearly Transformed Cosnies to Anisotropic GGX
+title: Bringing Linearly Transformed Cosines to Anisotropic GGX
 permalink: /ltc_anisotropic.html
 description: Aakash KT, Eric Heitz, Jonathan Dupuy and P. J. Narayanan <br> ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (I3D) 2022
 

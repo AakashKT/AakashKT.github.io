@@ -38,7 +38,7 @@ Definitions
 Its best if you have read and are confortable with Eric's original paper. However, I am still defining things here to ensure consistency.
 
 Direction vectors on the unit sphere are given by $$\omega = (x, y, z)$$. $$D_o(\omega_o)$$ is the source (clamped cosine) distribution. 
-$$D(\omega)$$ is the target (~ GGX BRDF) distribution. Given an LTC matric $$M$$, the direction vectors $$\omega$$ of $$D$$ are obtained by from the direction vectors $$\omega_o$$ of $$D_o$$ by:
+$$D(\omega)$$ is the target (~ GGX BRDF) distribution. Given an LTC matrix $$M$$, the direction vectors $$\omega$$ of $$D$$ are obtained by from the direction vectors $$\omega_o$$ of $$D_o$$ by:
 
 <p>
 $$
@@ -74,7 +74,7 @@ Derivation
 -----
 First things first. Note that $$D$$ and $$D_o$$ are distributions in <b>2D</b>, although they appear to be distributions in 3D. To see why, note that these are distributions on the unit sphere. Hence, we can write $$\omega = (\sin\theta \cos\phi, \sin\theta \sin\phi, \cos\theta)$$, in turn making $$D$$ and $$D_o$$ dependent on only $$\theta, \phi$$ (thus two dimensional). 
 
-From the <a href="https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant#:~:text=Jacobian%20determinant%5Bedit%5D">definitaion of jacobian determinants</a>, $$\frac{\partial \omega_o}{\partial \omega} $$ measures how a differential area around $$\omega_o$$ changes. Since this differential area in on the unit sphere, it is basically the <a href="https://en.wikipedia.org/wiki/Solid_angle">solid angle</a>. <b>The jacobian thus measures change in solid angle under the LTC transform</b>.
+From the <a href="https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant#:~:text=Jacobian%20determinant%5Bedit%5D">definition of jacobian determinants</a>, $$\frac{\partial \omega_o}{\partial \omega} $$ measures how a differential area around $$\omega_o$$ changes. Since this differential area in on the unit sphere, it is basically the <a href="https://en.wikipedia.org/wiki/Solid_angle">solid angle</a>. <b>The LTC jacobian thus measures change in solid angle under the LTC transform</b>.
 
 Our problem now boils down to determining how a differential solid angle changes under $$M$$.
 
@@ -112,22 +112,22 @@ The unit position vector is $$\hat{r} = \frac{M\omega_o}{\|M\omega_o\|}$$ (the d
 
 And finally, the normal vector is $$\hat{n} = \frac{M\omega_1 \times M\omega_2}{\|M\omega_1 \times M\omega_2\|}$$ (again, division for normalization).
 
-Lets first simplify the dot product $$\hat{r} \cdot \hat{n}$$ by plugging in these definitions:
+Lets first simplify the dot product $$\hat{r} \cdot \hat{n}$$ by plugging in the above definitions:
 <p>
 $$
-\hat{r} \cdot \hat{n} = \frac{M\omega_o}{\|M\omega_o\|} \frac{M\omega_1 \times M\omega_2}{\|M\omega_1 \times M\omega_2\|}
+\hat{r} \cdot \hat{n} = \left( \frac{M\omega_o}{\|M\omega_o\|} \right)^T \frac{M\omega_1 \times M\omega_2}{\|M\omega_1 \times M\omega_2\|}
 $$
 </p>
 Using <b>coss product under linear transforms</b> property:
 <p>
 $$
-\hat{r} \cdot \hat{n} = \frac{M\omega_o}{\|M\omega_o\|} \frac{|M| M^{-T} \omega_o}{\|M\omega_1 \times M\omega_2\|}
+\hat{r} \cdot \hat{n} = \frac{(M\omega_o)^T}{\|M\omega_o\|} \frac{|M| M^{-T} \omega_o}{\|M\omega_1 \times M\omega_2\|}
 $$
 $$
-\ \ \ \ \ \ = \frac{|M| M\omega_o M^{-T} \omega_o}{\|M\omega_o\| \|M\omega_1 \times M\omega_2\|}
+\ \ \ \ \ \ = \frac{|M| (M\omega_o)^T M^{-T} \omega_o}{\|M\omega_o\| \|M\omega_1 \times M\omega_2\|}
 $$
 </p>
-Using the fact that $$M\omega_o = \omega_o^T M^T$$:
+Using the fact that $$(M\omega_o)^T = \omega_o^T M^T$$:
 <p>
 $$
 \ \ \ \ \ \ = \frac{|M| \omega_o^{T}{\color{red}M^T M^{-T}} \omega_o}{\|M\omega_o\| \|M\omega_1 \times M\omega_2\|}
@@ -135,6 +135,9 @@ $$
 $$
 \ \ \ \ \ \ = \frac{|M| {\color{red}\omega_o^{T} \omega_o}}{\|M\omega_o\| \|M\omega_1 \times M\omega_2\|}
 $$
+</p>
+$$\omega_o^T\omega_o$$ is equal to $$1$$, since $$\omega_o$$ is a unit vector.
+<p>
 $$
 \Longrightarrow \hat{r} \cdot \hat{n} = \frac{|M|}{\|M\omega_o\| \|M\omega_1 \times M\omega_2\|}
 $$
@@ -157,3 +160,9 @@ $$
 </p>
 
 This is what we are looking for! :smile:
+
+<br>
+
+Conclusion
+-----
+This is a pretty intuitive proof, given that you think and go about it the right way. Hope this post helps some of you in your own research journey!

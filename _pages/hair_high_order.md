@@ -2,8 +2,8 @@
 layout: page
 title: Accelerating Hair Rendering by Learning High-Order Scattered Radiance
 permalink: /hair_high_order.html
-authors: Aakash KT<sup>1, 2</sup>, Adrian Jarabo<sup>2</sup>, Carlos Aliaga<sup>2</sup>, Matt Jen-Yuan Chiang<sup>2</sup>, <br> Olivier Maury<sup>2</sup>, Christophe Hery<sup>2</sup>, P. J. Narayanan<sup>1</sup>, Giljoo Nam<sup>2</sup>
-affiliation: <sup>1</sup>CVIT, International Institute of Information Technology, Hyderabad (IIIT-H) <br> <sup>2</sup>Meta Reality Labs Research
+authors: Aakash KT<sup>1, 2</sup>, Adrian Jarabo<sup>1</sup>, Carlos Aliaga<sup>1</sup>, Matt Jen-Yuan Chiang<sup>1</sup>, <br> Olivier Maury<sup>1</sup>, Christophe Hery<sup>1</sup>, P. J. Narayanan<sup>2</sup>, Giljoo Nam<sup>1</sup>
+affiliation: <sup>1</sup>Meta Reality Labs Research <br> <sup>2</sup>CVIT, International Institute of Information Technology, Hyderabad (IIIT-H)
 conference: Eurographics Symposium on Rendering (EGSR), 2023 <br> Computer Graphics Forum (CGF) Vol 42, Number 4
 
 ---

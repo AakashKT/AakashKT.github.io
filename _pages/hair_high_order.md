@@ -384,6 +384,8 @@ Comparisons with previous methods: NRC, NRC++ & Dual scattering for 5000spp. For
 
 <hr>
 <br>
-<div align="center">
-    <iframe width="1120" height="630" src="https://www.youtube.com/embed/DrW88l6kMdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="row">
+    <div class="col-sm-12" align="center">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/DrW88l6kMdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
 </div>

@@ -2,7 +2,9 @@
 layout: page
 title: Bringing Linearly Transformed Cosines to Anisotropic GGX
 permalink: /ltc_anisotropic.html
-description: Aakash KT, Eric Heitz, Jonathan Dupuy and P. J. Narayanan <br> ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (I3D) 2022
+authors: Aakash KT<sup>1</sup>, Eric Heitz<sup>2</sup>, Jonathan Dupuy<sup>2</sup> and P. J. Narayanan<sup>1</sup>
+affiliation: <sup>1</sup>CVIT, KCIS, IIIT Hyderabad <br> <sup>2</sup> Unity Technologies
+conference: ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games (I3D) 2022
 
 ---
 
@@ -91,8 +93,7 @@ Pseudocode for fetching LTC matrices for both LUT parameterizations is given bel
 <hr>
 
 <br>
-<h3><b>Video</b></h3>
-<div align="left">
+<div align="center">
     <iframe width="560" height="315" src="https://youtube.com/embed/DwHkPr7WAb8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <hr>

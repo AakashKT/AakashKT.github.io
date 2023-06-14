@@ -2,7 +2,9 @@
 layout: page
 title: A Flexible Neural Renderer for Material Visualization
 permalink: /flexible_nr
-description: Aakash KT, Parikshit Sakurikar, Saurabh Saini and P. J. Narayanan <br> ACM SIGGRAPH Asia 2019, Technical Briefs
+authors: Aakash KT<sup>1</sup>, Parikshit Sakurikar<sup>1, 2</sup>, Saurabh Saini<sup>1</sup> and P. J. Narayanan<sup>1</sup>
+affiliation: <sup>1</sup>IIIT Hyderabad <br> <sup>2</sup>DreamVu Inc.
+conference: ACM SIGGRAPH Asia 2019, Technical Briefs
 
 ---
 

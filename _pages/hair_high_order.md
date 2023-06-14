@@ -27,6 +27,8 @@ Efficiently and accurately rendering  hair accounting for multiple scattering is
 <br>
 <h3><b>Interactive Results</b></h3>
 Each hair style is shown with two $$\beta$$ values for our method and compared to path tracing, for <b>equal spp</b>. Both $$\beta$$ values are choosen to be approximately near peak efficiency, obtained by analyzing the efficiency graphs shown below.
+<br><br>
+<b>Click on the diamond to interact.</b>
 
 <br>
 

@@ -17,11 +17,11 @@ conference: Eurographics Symposium on Rendering (EGSR), 2023 <br> Computer Graph
 <p>
 Efficiently and accurately rendering  hair accounting for multiple scattering is  a challenging  open problem. Path tracing in hair takes long to converge while other techniques are  either too approximate while still being computationally expensive or make assumptions about the scene. We present a technique to infer the higher order scattering in hair in constant time within the path tracing framework, while achieving better computational efficiency. Our method makes no assumptions about the scene and provides control over the  renderer's bias & speedup. We achieve this by training a small multilayer perceptron (MLP) to learn the higher-order radiance online, while rendering progresses. We describe how to robustly train this network and thoroughly analyze our resulting renderer's characteristics. We evaluate our method on various hairstyles and lighting conditions. We also compare our method against a recent learning based & a traditional real-time hair rendering method and demonstrate better quantitative & qualitative results. Our method achieves a significant improvement in speed with respect to path tracing, achieving a run-time reduction of 40% - 70% while only introducing a small amount of bias. 
 </p>
-<!-- <span>
-    <a target="_blank" href="#">[PDF]</a> 
-    <a target="_blank" href="#">[Code]</a>
-    <a target="_blank" href="#">[Slides]</a>
-</span> -->
+<span>
+    <a target="_blank" href="http://cvit.iiit.ac.in/images/ConferencePapers/2023/Hair_Path_Tracing_Acceleration.pdf">[Author's Version PDF]</a> 
+    <!-- <a target="_blank" href="#">[Code]</a>
+    <a target="_blank" href="#">[Slides]</a> -->
+</span>
 
 <hr>
 <br>

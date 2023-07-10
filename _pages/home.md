@@ -27,7 +27,7 @@ I am a final year Ph.D candidate at CVIT, IIIT Hyderabad, supervised by <a targe
 Previously, I completed my MS by research at IIIT Hyderabad, which is also where I completed my BTech in Computer Science Engineering.<br>
 My research involves playing around with the light transport equation towards real-time performance, differentiable rendering and neural rendering.
 <br><br>
-During my Ph.D, I have had the pleasure of collaborating with <a href="https://eheitzresearch.wordpress.com/">Eric Heitz</a> during their time at <a href="https://unity-grenoble.github.io/website/">Unity 
+During my Ph.D, I have had the pleasure of collaborating with <a href="https://eheitzresearch.wordpress.com/">Eric Heitz</a> & <a href="https://onrendering.com/">Jonathan Dupuy</a> during their time at <br> <a href="https://unity-grenoble.github.io/website/">Unity 
 Research, Grenoble</a>. 
 <br>
 I have also been fortunate to have worked as a Research Scientist Intern at <a target="_blank" href="https://about.facebook.com/realitylabs/">Meta Reality Labs</a> in Pittsburgh, with <a href="https://sites.google.com/view/gjnam">Giljoo Nam</a>.

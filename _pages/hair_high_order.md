@@ -20,7 +20,7 @@ Efficiently and accurately rendering  hair accounting for multiple scattering is
 <span>
     <a target="_blank" href="http://cvit.iiit.ac.in/images/ConferencePapers/2023/Hair_Path_Tracing_Acceleration.pdf">[Author's Version PDF]</a>
     <a target="_blank" href="https://diglib.eg.org/handle/10.1111/cgf14895">[Publisher's Version PDF]</a> 
-    <a target="_blank" href="#">[Code (Coming Soon)]</a>
+    <a target="_blank" href="https://github.com/facebookresearch/HairMSNN">[Code]</a>
     <a target="_blank" href="https://iiitaphyd-my.sharepoint.com/:b:/g/personal/aakash_kt_research_iiit_ac_in/EWr6HZmMUjlKirzrBvrk1woBCWgrk9Qw6PAJcqrl2TaKaQ?e=6Cgr8k">[Slides]</a>
 </span>
 

@@ -7,8 +7,7 @@ subtitle:
 profile:
   align: right
   image: profile_pic.jpg
-  address: >
-    <p>aakash.kt@research.iiit.ac.in</p>
+  address: 
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -22,6 +21,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 Ph.D candidate at IIIT-H, Aug 2020 - May 2024 (Expected)
+<p style="color: red">I am actively looking for Research Positions starting in Fall 2024. Do <u><a style="color:red" href="mailto:aakash.kt@research.iiit.ac.in">get in touch</a></u> if you think I am a good fit.</p>
 
 I am a final year Ph.D candidate at CVIT, IIIT Hyderabad, supervised by <a target="_blank" href="https://scholar.google.co.in/citations?user=3HKjt_IAAAAJ&hl=en">Dr. P. J. Narayanan</a> (Funded by the <a target="_blank" href="https://kcis.iiit.ac.in/fellowship">KCIS fellowship</a>).<br>
 Previously, I completed my MS by research at IIIT Hyderabad, which is also where I completed my BTech in Computer Science Engineering.<br>
@@ -38,6 +38,6 @@ I have also been fortunate to have worked as a Research Scientist Intern at <a t
     <a href="mailto:aakash.kt@research.iiit.ac.in">Email</a> /
     <a target="_blank" href="https://scholar.google.co.in/citations?user=itJ7vawAAAAJ&hl=en">Google Scholar</a> / 
     <a target="_blank" href="https://twitter.com/KtAakash">Twitter</a> /
-    <a target="_blank" href="https://www.linkedin.com/in/aakash-k-t-a406a9b9/">LinkedIn</a>
+    <a target="_blank" href="https://www.linkedin.com/in/aakash-kt-a406a9b9">LinkedIn</a>
   </span>
 </p>

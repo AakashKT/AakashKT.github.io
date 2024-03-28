@@ -42,7 +42,7 @@ $$\beta=13$$
             <!-- Comparison Slider - this div contain the slider with the individual images captions -->
             <div class="comparison-slider">
                 <div class="overlay">Ours, 2.6 sec</div>
-                <img src="https://drive.google.com/uc?export=view&id=1gmHyUXKQjzPtjiK-7t49V5R5T7YYoWo_" alt="Ours">
+                <img src="https://drive.google.com/uc?id=1gmHyUXKQjzPtjiK-7t49V5R5T7YYoWo_" alt="Ours">
                 <!-- Div containing the image layed out on top from the left -->
                 <div class="resize">
                     <div class="overlay">Path Tracing, 2.4 sec</div>

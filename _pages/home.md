@@ -20,7 +20,18 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Ph.D candidate at IIIT-H, Aug 2020 - May 2024 (Expected)
+<h5>Real-time Rendering & Graphics Research @ <b style="color:#3253dc">Qualcomm</b></h5>
+<br>
+
+I work as a Senior Engineer in the <b style="color:#3253dc">Graphics Research Organisation</b> at <b style="color:#3253dc">Qualcomm</b>. I completed my Ph.D (defense pending) at CVIT, IIIT Hyderabad, supervised by <a target="_blank" href="https://scholar.google.co.in/citations?user=3HKjt_IAAAAJ&hl=en">Dr. P. J. Narayanan</a>. 
+<br><br>
+I also worked as a Research Scientist Intern at <a target="_blank" href="https://about.facebook.com/realitylabs/">Meta Reality Labs, Pittsburgh</a> in Fall 2022.
+
+My current research involves playing around with the light transport equation towards real-time performance, differentiable rendering and neural rendering.
+<br><br>
+
+
+<!-- Ph.D candidate at IIIT-H, Aug 2020 - May 2024 (Expected)
 
 I am a final year Ph.D candidate at CVIT, IIIT Hyderabad, supervised by <a target="_blank" href="https://scholar.google.co.in/citations?user=3HKjt_IAAAAJ&hl=en">Dr. P. J. Narayanan</a> (Funded by the <a target="_blank" href="https://kcis.iiit.ac.in/fellowship">KCIS fellowship</a>).<br>
 Previously, I completed my MS by research at IIIT Hyderabad, which is also where I completed my BTech in Computer Science Engineering.<br>
@@ -29,7 +40,7 @@ My research involves playing around with the light transport equation towards re
 During my Ph.D, I have had the pleasure of collaborating with <a href="https://eheitzresearch.wordpress.com/">Eric Heitz</a> & <a href="https://onrendering.com/">Jonathan Dupuy</a> during their time at <br> <a href="https://unity-grenoble.github.io/website/">Unity 
 Research, Grenoble</a>. 
 <br>
-I have also been fortunate to have worked as a Research Scientist Intern at <a target="_blank" href="https://about.facebook.com/realitylabs/">Meta Reality Labs</a> in Pittsburgh, with <a href="https://sites.google.com/view/gjnam">Giljoo Nam</a>.
+I have also been fortunate to have worked as a Research Scientist Intern at <a target="_blank" href="https://about.facebook.com/realitylabs/">Meta Reality Labs</a> in Pittsburgh, with <a href="https://sites.google.com/view/gjnam">Giljoo Nam</a>. -->
 
 <p>
   <span>

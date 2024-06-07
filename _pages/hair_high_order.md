@@ -42,11 +42,11 @@ $$\beta=13$$
             <!-- Comparison Slider - this div contain the slider with the individual images captions -->
             <div class="comparison-slider">
                 <div class="overlay">Ours, 2.6 sec</div>
-                <img src="https://drive.google.com/uc?id=1gmHyUXKQjzPtjiK-7t49V5R5T7YYoWo_" alt="Ours">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=1gmHyUXKQjzPtjiK-7t49V5R5T7YYoWo_" alt="Ours">
                 <!-- Div containing the image layed out on top from the left -->
                 <div class="resize">
                     <div class="overlay">Path Tracing, 2.4 sec</div>
-                <img src="https://drive.google.com/uc?export=view&id=1YMVHZgOwhq6AHCXbex58qETVtBNUmBOk" alt="Path Tracing">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=1YMVHZgOwhq6AHCXbex58qETVtBNUmBOk" alt="Path Tracing">
                 </div>
                 <!-- Divider where user will interact with the slider -->
                 <div class="divider"></div>
@@ -60,11 +60,11 @@ $$\beta=13$$
             <!-- Comparison Slider - this div contain the slider with the individual images captions -->
             <div class="comparison-slider">
                 <div class="overlay">Ours, 16.4 sec</div>
-                <img src="https://drive.google.com/uc?export=view&id=1IFoFoND23N0mPVgv-gPJJgkQY73lgxUo" alt="Ours">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=1IFoFoND23N0mPVgv-gPJJgkQY73lgxUo" alt="Ours">
                 <!-- Div containing the image layed out on top from the left -->
                 <div class="resize">
                     <div class="overlay">Path Tracing, 22.8 sec</div>
-                <img src="https://drive.google.com/uc?export=view&id=14W92LG3OfMvvyeQtIB15QcrLkR20Sr5R" alt="Path Tracing">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=14W92LG3OfMvvyeQtIB15QcrLkR20Sr5R" alt="Path Tracing">
                 </div>
                 <!-- Divider where user will interact with the slider -->
                 <div class="divider"></div>
@@ -78,11 +78,11 @@ $$\beta=13$$
             <!-- Comparison Slider - this div contain the slider with the individual images captions -->
             <div class="comparison-slider">
                 <div class="overlay">Ours, 154.5 sec</div>
-                <img src="https://drive.google.com/uc?export=view&id=1nbrvJ1Mip-FhXNs3EWnRJx4gXnp_9oqV" alt="Ours">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=1nbrvJ1Mip-FhXNs3EWnRJx4gXnp_9oqV" alt="Ours">
                 <!-- Div containing the image layed out on top from the left -->
                 <div class="resize">
                     <div class="overlay">Path Tracing, 227.6 sec</div>
-                <img src="https://drive.google.com/uc?export=view&id=1DXngtO78NbMUsrcVBZSNG3NB4uWdjrsG" alt="Path Tracing">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=1DXngtO78NbMUsrcVBZSNG3NB4uWdjrsG" alt="Path Tracing">
                 </div>
                 <!-- Divider where user will interact with the slider -->
                 <div class="divider"></div>
@@ -100,11 +100,11 @@ $$\beta=5$$
             <!-- Comparison Slider - this div contain the slider with the individual images captions -->
             <div class="comparison-slider">
                 <div class="overlay">Ours, 2.0 sec</div>
-                <img src="https://drive.google.com/uc?export=view&id=1KQxhX4b2spXe8j07B06djtZRUuoXi9Zp" alt="Ours">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=1KQxhX4b2spXe8j07B06djtZRUuoXi9Zp" alt="Ours">
                 <!-- Div containing the image layed out on top from the left -->
                 <div class="resize">
                     <div class="overlay">Path Tracing, 2.4 sec</div>
-                <img src="https://drive.google.com/uc?export=view&id=1YMVHZgOwhq6AHCXbex58qETVtBNUmBOk" alt="Path Tracing">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=1YMVHZgOwhq6AHCXbex58qETVtBNUmBOk" alt="Path Tracing">
                 </div>
                 <!-- Divider where user will interact with the slider -->
                 <div class="divider"></div>
@@ -118,11 +118,11 @@ $$\beta=5$$
             <!-- Comparison Slider - this div contain the slider with the individual images captions -->
             <div class="comparison-slider">
                 <div class="overlay">Ours, 10.1 sec</div>
-                <img src="https://drive.google.com/uc?export=view&id=14gUf9-rz_FFPWKWprVd9t_0CAEIWj3IN" alt="Ours">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=14gUf9-rz_FFPWKWprVd9t_0CAEIWj3IN" alt="Ours">
                 <!-- Div containing the image layed out on top from the left -->
                 <div class="resize">
                     <div class="overlay">Path Tracing, 22.8 sec</div>
-                <img src="https://drive.google.com/uc?export=view&id=14W92LG3OfMvvyeQtIB15QcrLkR20Sr5R" alt="Path Tracing">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=14W92LG3OfMvvyeQtIB15QcrLkR20Sr5R" alt="Path Tracing">
                 </div>
                 <!-- Divider where user will interact with the slider -->
                 <div class="divider"></div>
@@ -136,11 +136,11 @@ $$\beta=5$$
             <!-- Comparison Slider - this div contain the slider with the individual images captions -->
             <div class="comparison-slider">
                 <div class="overlay">Ours, 92.5 sec</div>
-                <img src="https://drive.google.com/uc?export=view&id=1mMwIEe47guZxmbtChf_p79ocoYaztFWx" alt="Ours">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=1mMwIEe47guZxmbtChf_p79ocoYaztFWx" alt="Ours">
                 <!-- Div containing the image layed out on top from the left -->
                 <div class="resize">
                     <div class="overlay">Path Tracing, 227.6 sec</div>
-                <img src="https://drive.google.com/uc?export=view&id=1DXngtO78NbMUsrcVBZSNG3NB4uWdjrsG" alt="Path Tracing">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=1DXngtO78NbMUsrcVBZSNG3NB4uWdjrsG" alt="Path Tracing">
                 </div>
                 <!-- Divider where user will interact with the slider -->
                 <div class="divider"></div>
@@ -160,11 +160,11 @@ $$\beta=5$$
             <!-- Comparison Slider - this div contain the slider with the individual images captions -->
             <div class="comparison-slider">
                 <div class="overlay">Ours, 1.7 sec</div>
-                <img src="https://drive.google.com/uc?export=view&id=17qxKkQ40og9b_SsxPa9fPHfnciNnUYIG" alt="Ours">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=17qxKkQ40og9b_SsxPa9fPHfnciNnUYIG" alt="Ours">
                 <!-- Div containing the image layed out on top from the left -->
                 <div class="resize">
                     <div class="overlay">Path Tracing, 1.3 sec</div>
-                <img src="https://drive.google.com/uc?export=view&id=16kw1SFHbs2e9hjjfwmWvxouasjvgmq0V" alt="Path Tracing">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=16kw1SFHbs2e9hjjfwmWvxouasjvgmq0V" alt="Path Tracing">
                 </div>
                 <!-- Divider where user will interact with the slider -->
                 <div class="divider"></div>
@@ -178,11 +178,11 @@ $$\beta=5$$
             <!-- Comparison Slider - this div contain the slider with the individual images captions -->
             <div class="comparison-slider">
                 <div class="overlay">Ours, 8.2 sec</div>
-                <img src="https://drive.google.com/uc?export=view&id=143yLFR6kziN7995DVAfqe-Ih0in8jw4u" alt="Ours">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=143yLFR6kziN7995DVAfqe-Ih0in8jw4u" alt="Ours">
                 <!-- Div containing the image layed out on top from the left -->
                 <div class="resize">
                     <div class="overlay">Path Tracing, 11.9 sec</div>
-                <img src="https://drive.google.com/uc?export=view&id=1AhDLM-qvaPohXBc8YoQsAdDIKIGZv5AJ" alt="Path Tracing">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=1AhDLM-qvaPohXBc8YoQsAdDIKIGZv5AJ" alt="Path Tracing">
                 </div>
                 <!-- Divider where user will interact with the slider -->
                 <div class="divider"></div>
@@ -196,11 +196,11 @@ $$\beta=5$$
             <!-- Comparison Slider - this div contain the slider with the individual images captions -->
             <div class="comparison-slider">
                 <div class="overlay">Ours, 73.0 sec</div>
-                <img src="https://drive.google.com/uc?export=view&id=1sRfK1xVMpSd7piWMu-zHls4KTF-DASAF" alt="Ours">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=1sRfK1xVMpSd7piWMu-zHls4KTF-DASAF" alt="Ours">
                 <!-- Div containing the image layed out on top from the left -->
                 <div class="resize">
                     <div class="overlay">Path Tracing, 119.5 sec</div>
-                <img src="https://drive.google.com/uc?export=view&id=1GYbBKTH65r8weVmP3k1_rSSzls5RQQNS" alt="Path Tracing">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=1GYbBKTH65r8weVmP3k1_rSSzls5RQQNS" alt="Path Tracing">
                 </div>
                 <!-- Divider where user will interact with the slider -->
                 <div class="divider"></div>
@@ -218,11 +218,11 @@ $$\beta=1$$
             <!-- Comparison Slider - this div contain the slider with the individual images captions -->
             <div class="comparison-slider">
                 <div class="overlay">Ours, 1.4 sec</div>
-                <img src="https://drive.google.com/uc?export=view&id=10xIxwy74reWBEskyEzoDe8vsUe30ghVc" alt="Ours">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=10xIxwy74reWBEskyEzoDe8vsUe30ghVc" alt="Ours">
                 <!-- Div containing the image layed out on top from the left -->
                 <div class="resize">
                     <div class="overlay">Path Tracing, 1.3 sec</div>
-                <img src="https://drive.google.com/uc?export=view&id=16kw1SFHbs2e9hjjfwmWvxouasjvgmq0V" alt="Path Tracing">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=16kw1SFHbs2e9hjjfwmWvxouasjvgmq0V" alt="Path Tracing">
                 </div>
                 <!-- Divider where user will interact with the slider -->
                 <div class="divider"></div>
@@ -236,11 +236,11 @@ $$\beta=1$$
             <!-- Comparison Slider - this div contain the slider with the individual images captions -->
             <div class="comparison-slider">
                 <div class="overlay">Ours, 4.9 sec</div>
-                <img src="https://drive.google.com/uc?export=view&id=1g9uKy5KC-L9yTjHkEyaahHmio8CjvkSS" alt="Ours">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=1g9uKy5KC-L9yTjHkEyaahHmio8CjvkSS" alt="Ours">
                 <!-- Div containing the image layed out on top from the left -->
                 <div class="resize">
                     <div class="overlay">Path Tracing, 11.9 sec</div>
-                <img src="https://drive.google.com/uc?export=view&id=1AhDLM-qvaPohXBc8YoQsAdDIKIGZv5AJ" alt="Path Tracing">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=1AhDLM-qvaPohXBc8YoQsAdDIKIGZv5AJ" alt="Path Tracing">
                 </div>
                 <!-- Divider where user will interact with the slider -->
                 <div class="divider"></div>
@@ -254,11 +254,11 @@ $$\beta=1$$
             <!-- Comparison Slider - this div contain the slider with the individual images captions -->
             <div class="comparison-slider">
                 <div class="overlay">Ours, 40.2 sec</div>
-                <img src="https://drive.google.com/uc?export=view&id=1f6wpjKJrTZr7geJK0UdK5r000rFKdHUP" alt="Ours">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=1f6wpjKJrTZr7geJK0UdK5r000rFKdHUP" alt="Ours">
                 <!-- Div containing the image layed out on top from the left -->
                 <div class="resize">
                     <div class="overlay">Path Tracing, 119.5 sec</div>
-                <img src="https://drive.google.com/uc?export=view&id=1GYbBKTH65r8weVmP3k1_rSSzls5RQQNS" alt="Path Tracing">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=1GYbBKTH65r8weVmP3k1_rSSzls5RQQNS" alt="Path Tracing">
                 </div>
                 <!-- Divider where user will interact with the slider -->
                 <div class="divider"></div>
@@ -287,11 +287,11 @@ Comparisons with previous methods: NRC, NRC++ & Dual scattering for 5000spp. For
             <!-- Comparison Slider - this div contain the slider with the individual images captions -->
             <div class="comparison-slider">
                 <div class="overlay">Ours (beta=1)</div>
-                <img src="https://drive.google.com/uc?export=view&id=1Ziq5cOVp3EXK7cuJoHN0FLHup6dWIIGG" alt="Ours">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=1Ziq5cOVp3EXK7cuJoHN0FLHup6dWIIGG" alt="Ours">
                 <!-- Div containing the image layed out on top from the left -->
                 <div class="resize">
                     <div class="overlay">NRC</div>
-                <img src="https://drive.google.com/uc?export=view&id=195xQMGi1M86fjFrWhIyLUfhymfLTrzFv" alt="NRC">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=195xQMGi1M86fjFrWhIyLUfhymfLTrzFv" alt="NRC">
                 </div>
                 <!-- Divider where user will interact with the slider -->
                 <div class="divider"></div>
@@ -303,11 +303,11 @@ Comparisons with previous methods: NRC, NRC++ & Dual scattering for 5000spp. For
             <!-- Comparison Slider - this div contain the slider with the individual images captions -->
             <div class="comparison-slider">
                 <div class="overlay">Ours (beta=1)</div>
-                <img src="https://drive.google.com/uc?export=view&id=1Ziq5cOVp3EXK7cuJoHN0FLHup6dWIIGG" alt="Ours">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=1Ziq5cOVp3EXK7cuJoHN0FLHup6dWIIGG" alt="Ours">
                 <!-- Div containing the image layed out on top from the left -->
                 <div class="resize">
                     <div class="overlay">NRC++</div>
-                <img src="https://drive.google.com/uc?export=view&id=1A73HJOvtoY-Y4u7eS5DJ3c4kRp9k1Ona" alt="NRC++">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=1A73HJOvtoY-Y4u7eS5DJ3c4kRp9k1Ona" alt="NRC++">
                 </div>
                 <!-- Divider where user will interact with the slider -->
                 <div class="divider"></div>
@@ -319,11 +319,11 @@ Comparisons with previous methods: NRC, NRC++ & Dual scattering for 5000spp. For
             <!-- Comparison Slider - this div contain the slider with the individual images captions -->
             <div class="comparison-slider">
                 <div class="overlay">Ours (beta=1)</div>
-                <img src="https://drive.google.com/uc?export=view&id=1Ziq5cOVp3EXK7cuJoHN0FLHup6dWIIGG" alt="Ours">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=1Ziq5cOVp3EXK7cuJoHN0FLHup6dWIIGG" alt="Ours">
                 <!-- Div containing the image layed out on top from the left -->
                 <div class="resize">
                     <div class="overlay">Dual Scattering</div>
-                <img src="https://drive.google.com/uc?export=view&id=17BjdkcoApkFbHRz8jnPceCzroiVUgkqc" alt="Dual Scattering">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=17BjdkcoApkFbHRz8jnPceCzroiVUgkqc" alt="Dual Scattering">
                 </div>
                 <!-- Divider where user will interact with the slider -->
                 <div class="divider"></div>
@@ -340,11 +340,11 @@ Comparisons with previous methods: NRC, NRC++ & Dual scattering for 5000spp. For
             <!-- Comparison Slider - this div contain the slider with the individual images captions -->
             <div class="comparison-slider">
                 <div class="overlay">Ours (beta=1)</div>
-                <img src="https://drive.google.com/uc?export=view&id=1d9Mly9VpYyH4QUxczc6gnOCzsmecY2Dc" alt="Ours">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=1d9Mly9VpYyH4QUxczc6gnOCzsmecY2Dc" alt="Ours">
                 <!-- Div containing the image layed out on top from the left -->
                 <div class="resize">
                     <div class="overlay">NRC</div>
-                <img src="https://drive.google.com/uc?export=view&id=1n-gnY1TadJmTs7Fomk5eTBHLOGVQyNcZ" alt="NRC">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=1n-gnY1TadJmTs7Fomk5eTBHLOGVQyNcZ" alt="NRC">
                 </div>
                 <!-- Divider where user will interact with the slider -->
                 <div class="divider"></div>
@@ -356,11 +356,11 @@ Comparisons with previous methods: NRC, NRC++ & Dual scattering for 5000spp. For
             <!-- Comparison Slider - this div contain the slider with the individual images captions -->
             <div class="comparison-slider">
                 <div class="overlay">Ours (beta=1)</div>
-                <img src="https://drive.google.com/uc?export=view&id=1d9Mly9VpYyH4QUxczc6gnOCzsmecY2Dc" alt="Ours">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=1d9Mly9VpYyH4QUxczc6gnOCzsmecY2Dc" alt="Ours">
                 <!-- Div containing the image layed out on top from the left -->
                 <div class="resize">
                     <div class="overlay">NRC++</div>
-                <img src="https://drive.google.com/uc?export=view&id=1mZYApAobJ3K26ET08MH3dWfnpKClDMtx" alt="NRC++">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=1mZYApAobJ3K26ET08MH3dWfnpKClDMtx" alt="NRC++">
                 </div>
                 <!-- Divider where user will interact with the slider -->
                 <div class="divider"></div>
@@ -372,11 +372,11 @@ Comparisons with previous methods: NRC, NRC++ & Dual scattering for 5000spp. For
             <!-- Comparison Slider - this div contain the slider with the individual images captions -->
             <div class="comparison-slider">
                 <div class="overlay">Ours (beta=1)</div>
-                <img src="https://drive.google.com/uc?export=view&id=1d9Mly9VpYyH4QUxczc6gnOCzsmecY2Dc" alt="Ours">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=1d9Mly9VpYyH4QUxczc6gnOCzsmecY2Dc" alt="Ours">
                 <!-- Div containing the image layed out on top from the left -->
                 <div class="resize">
                     <div class="overlay">Dual Scattering</div>
-                <img src="https://drive.google.com/uc?export=view&id=1JEqsaskEXLyqXGrrtBy5LesD16XDPcdQ" alt="Dual Scattering">
+                <img src="https://drive.google.com/thumbnail?sz=w1000&id=1JEqsaskEXLyqXGrrtBy5LesD16XDPcdQ" alt="Dual Scattering">
                 </div>
                 <!-- Divider where user will interact with the slider -->
                 <div class="divider"></div>

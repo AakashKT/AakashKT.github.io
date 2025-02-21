@@ -25,9 +25,9 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am currently part of the <b style="color:#3253dc">Graphics Research Team</b> at <b style="color:#3253dc">Qualcomm</b>. I completed my Ph.D (defense pending) at CVIT, IIIT Hyderabad, supervised by <a target="_blank" href="https://scholar.google.co.in/citations?user=3HKjt_IAAAAJ&hl=en">Dr. P. J. Narayanan</a>. 
 <br><br>
-I have also worked with <a target="_blank" href="https://about.facebook.com/realitylabs/">Meta Reality Labs, Pittsburgh</a> as a Research Scientist Intern in Fall 2022.
-<br><br>
 At Qualcomm, my primary role is to perform applied research for the next generation of <a href="https://www.qualcomm.com/products/features/adreno">Adreno GPUs</a>, ranging from pre-silicon explorations to forward-looking research problems in rendering and applied ML.
+<br><br>
+Previously, I worked with <a target="_blank" href="https://about.facebook.com/realitylabs/">Meta Reality Labs, Pittsburgh</a> as a Research Scientist Intern in Fall 2022.
 <br><br>
 
 

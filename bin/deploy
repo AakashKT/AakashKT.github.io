@@ -96,6 +96,7 @@ export JEKYLL_ENV=production
 
 # Build site
 bundle clean --force
+bundle update uri
 bundle exec jekyll build
 
 # Delete and move files

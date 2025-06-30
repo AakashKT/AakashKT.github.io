@@ -20,10 +20,10 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-<h5>Real-time Rendering & GPU Research @ <b style="color:#3253dc">Qualcomm</b></h5>
+<h5>Light Transport | GPU Architecture | <b style="color:#3253dc">Qualcomm</b></h5>
 <br>
 
-I am currently part of the <b style="color:#3253dc">Graphics Research Team</b> at <b style="color:#3253dc">Qualcomm</b>. I completed my Ph.D (defense pending) at CVIT, IIIT Hyderabad, supervised by <a target="_blank" href="https://scholar.google.co.in/citations?user=3HKjt_IAAAAJ&hl=en">Dr. P. J. Narayanan</a>. 
+I am currently part of the <b style="color:#3253dc">Graphics Research Team</b> at <b style="color:#3253dc">Qualcomm</b>. I completed my Ph.D at CVIT, IIIT Hyderabad, supervised by <a target="_blank" href="https://scholar.google.co.in/citations?user=3HKjt_IAAAAJ&hl=en">Dr. P. J. Narayanan</a>. 
 <br><br>
 At Qualcomm, my primary role is to perform applied research for the next generation of <a href="https://www.qualcomm.com/products/features/adreno">Adreno GPUs</a>, ranging from pre-silicon explorations to forward-looking research problems in rendering and applied ML.
 <br><br>

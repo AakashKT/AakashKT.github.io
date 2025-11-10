@@ -45,7 +45,7 @@ I have also been fortunate to have worked as a Research Scientist Intern at <a t
 <p>
   <span>
     <a href="/assets/resume.pdf">Resume</a> /
-    <a href="mailto:aakash.kt@research.iiit.ac.in">Email</a> /
+    <a href="mailto:aakashkt0@gmail.com">Email</a> /
     <a target="_blank" href="https://scholar.google.co.in/citations?user=itJ7vawAAAAJ&hl=en">Google Scholar</a> / 
     <a target="_blank" href="https://twitter.com/KtAakash">Twitter</a> /
     <a target="_blank" href="https://www.linkedin.com/in/aakash-kt-a406a9b9">LinkedIn</a>

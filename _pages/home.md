@@ -23,7 +23,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 <h5>Light Transport | GPU Architecture | Computer Graphics | <b style="color:#E10027">Huawei Research</b></h5>
 <br>
 
-Hi there! Welcome to my personal page and a barin dump of sorts. I love working with practical computer graphics, GPU architecture and general physics of light transport.
+Hi there! Welcome to my personal page and a brain dump of sorts. I love working with practical computer graphics, GPU architecture and general physics of light transport.
 
 I hold a PhD in real-time rendering from IIIT Hyderabad, supervised by <a target="_blank" href="https://scholar.google.co.in/citations?user=3HKjt_IAAAAJ&hl=en">Dr. P. J. Narayanan</a>. 
 
